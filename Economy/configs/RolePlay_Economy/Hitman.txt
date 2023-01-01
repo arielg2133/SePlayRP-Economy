@@ -95,9 +95,9 @@
 	"JOB_NAME_LVL_#10"				"Assassin"
 
 
-	// List of item names that cannot be stolen. Cocaine is hardcoded in Drug Dealer's Eco as well.
-	"NO_STEAL_ITEMS_#0"				"AWP"
-	"NO_STEAL_ITEMS_#1"				"COCS"
+	// EXP and money multiplier when hitman gets a job from the server.
+	"HITMAN_SERVER_EXP_MULTIPLIER"			"0.1"
+	"HITMAN_SERVER_CASH_MULTIPLIER"			"0.1"
 	
 
 }
